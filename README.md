@@ -3,5 +3,6 @@
 ### Functions:
 #### Checkex - Check file/directory exists
 #### Stf - Write something to file
-### Aliases:
-####
+### Alias Commands:
+#### Dir - ls
+#### Sav - say -v
